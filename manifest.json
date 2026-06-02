@@ -1,0 +1,6 @@
+{
+  "provider": "edge-tts",
+  "voice": "fr-FR-RemyMultilingualNeural",
+  "rate": "-8%",
+  "count": 4001
+}
